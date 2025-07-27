@@ -9,6 +9,7 @@ Bu proje, kullanıcıların günlük görevlerini ekleyip yönetebileceği basit
 ✔️ Görevleri tamamlanmış olarak işaretleme
 
 📅 Basit ve kullanıcı dostu arayüz
+<img width="883" height="789" alt="image" src="https://github.com/user-attachments/assets/04a6ae16-dd63-493f-807b-d869e561e7f9" />
 
 📦 Local Storage desteği (veriler tarayıcıda saklanır)
 ## Kullanım
