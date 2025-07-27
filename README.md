@@ -58,7 +58,13 @@ Checkbox'a tıklayarak görevi tamamlanmış olarak işaretleyin
 
 Otomatik olarak mola zamanına geçiş yapacaktır
 
-## Örnek Görsel 
+## Örnek Görseller 
 
-<img width="917" height="789" alt="image" src="https://github.com/user-attachments/assets/de9cf9cd-1f9f-4b97-8105-dbbab6528a56" />
+<img width="786" height="649" alt="image" src="https://github.com/user-attachments/assets/f8f26c98-b636-4829-8aba-35137fbedcc6" />
+<img width="1315" height="674" alt="image" src="https://github.com/user-attachments/assets/f093b768-fc46-4808-9904-c0f80e4cfc3f" />
+<img width="1360" height="917" alt="image" src="https://github.com/user-attachments/assets/f00e606a-fbe1-482d-a134-5e92a35f0059" />
+<img width="1227" height="684" alt="image" src="https://github.com/user-attachments/assets/7f30a110-ce44-469a-a3f7-3f8a4b75a3c1" />
+
+
+
 
